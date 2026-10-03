@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/📊%20Power%20BI%20Dashboard-View-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
-<a href="#-project-video">
+<a href="https://www.dropbox.com/scl/fi/rj6v6vy8sv9s5mg387kbs/Recording-2026-10-03-154903.mp4?rlkey=qyrfayvh3w378dhurcx2tgxji&st=oidugu0y&dl=0">
 <img src="https://img.shields.io/badge/🎥%20Project%20Video-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
