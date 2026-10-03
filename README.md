@@ -21,19 +21,20 @@
 
 <p align="center">
 
-<a href="#-python-analysis">
+<a href="https://github.com/jeelprajapati0606/Data_Analysis_SET_B_10861/tree/main/Data_Analysis_SET_B_10861/Raw%20Data">
+<img src="https://img.shields.io/badge/📂%20Dataset-View-4A90E2?style=for-the-badge&logo=databricks&logoColor=white">
+</a>
+
+<a href="https://github.com/jeelprajapati0606/Data_Analysis_SET_B_10861/blob/main/Data_Analysis_SET_B_10861/Customer%20Support%20Quality%20Analysis-checkpoint.ipynb">
 <img src="https://img.shields.io/badge/🐍%20Python%20Notebook-View-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
-<a href="#-sql-analysis">
+<a href="https://github.com/jeelprajapati0606/Data_Analysis_SET_B_10861/tree/main/Data_Analysis_SET_B_10861/SQL">
 <img src="https://img.shields.io/badge/🗄️%20SQL%20Queries-View-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 
-<a href="#-excel-analysis">
-<img src="https://img.shields.io/badge/📗%20Excel%20Analysis-View-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</a>
 
-<a href="#-power-bi-dashboard">
+<a href="https://github.com/jeelprajapati0606/Data_Analysis_SET_B_10861/blob/main/Data_Analysis_SET_B_10861/output/Powerbi_Dashboard.png">
 <img src="https://img.shields.io/badge/📊%20Power%20BI%20Dashboard-View-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
