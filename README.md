@@ -499,129 +499,6 @@ The dashboard focuses on:
 
 ---
 
-# 🎨 Dashboard Design
-
-Recommended dashboard theme:
-
-```text
-Background:
-#0B0F19
-
-Primary Accent:
-#06B6D4
-
-Secondary Accent:
-#A855F7
-
-Success:
-#22C55E
-
-Warning:
-#F59E0B
-
-Danger:
-#EF4444
-
-Text:
-#FFFFFF
-```
-
-### Suggested Power BI page size
-
-```text
-16 : 9
-```
-
-### Recommended dashboard layout
-
-```text
-┌───────────────────────────────────────────────────────┐
-│        CUSTOMER SUPPORT QUALITY ANALYSIS              │
-│                                                       │
-│  [Tickets] [Avg Resolution] [SLA Breaches] [CSAT]   │
-│                                                       │
-├───────────────────────────────────────────────────────┤
-│                                                       │
-│  Average Resolution Time      SLA Breaches by Team   │
-│  ───────────────────────      ─────────────────────  │
-│                                                       │
-│  Monthly Trend                 Channel Analysis       │
-│  ────────────────             ─────────────────       │
-│                                                       │
-├───────────────────────────────────────────────────────┤
-│              Department / Team Performance             │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 Recommended Visuals
-
-### 1️⃣ KPI Cards
-
-Show:
-
-* Total Tickets
-* Average Resolution Hours
-* SLA Breaches
-* Average Satisfaction
-
-### 2️⃣ Department Performance
-
-**Column Chart**
-
-```text
-Department
-     ↓
-Average Resolution Hours
-```
-
-### 3️⃣ Team SLA Performance
-
-**Bar Chart**
-
-```text
-Team
-  ↓
-Average Resolution Hours
-```
-
-### 4️⃣ Monthly Resolution Trend
-
-**Line Chart**
-
-```text
-Jan → Feb → Mar
-```
-
-### 5️⃣ Channel Breach Analysis
-
-**Column / Bar Chart**
-
-```text
-Email
-Chat
-Phone
-```
-
-### 6️⃣ Satisfaction Analysis
-
-Use a chart to compare average satisfaction across teams or departments.
-
----
-
-# 🔍 Key Findings
-
-Based on the supplied ticket and team data, the analysis can be used to identify the following patterns:
-
-### ⏱️ Resolution Time
-
-The overall average resolution time in the supplied ticket data is approximately:
-
-```text
-23.85 hours
-```
 
 ### 🚨 SLA
 
@@ -889,21 +766,6 @@ Data Validation
 
 ---
 
-# 🔮 Future Improvements
-
-The project can be extended with:
-
-* 📌 Ticket priority analysis
-* 📌 Agent-level performance
-* 📌 Customer segmentation
-* 📌 CSAT trend analysis
-* 📌 Root-cause analysis
-* 📌 Predictive SLA breach model
-* 📌 Automated Power BI refresh
-* 📌 Real-time support monitoring
-* 📌 Machine Learning-based resolution-time prediction
-
----
 
 # 🏆 Project Outcome
 
@@ -931,7 +793,7 @@ The final result is an interactive analytical solution that helps understand **c
 
 ---
 
-# 👩‍💻 Author
+# 👩 Author
 
 ## Jeel Prajapati
 
@@ -947,18 +809,5 @@ The final result is an interactive analytical solution that helps understand **c
 <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
 ---
 
-<p align="center">
-
-### ⭐ If you found this project useful, consider giving it a star!
-
-**Built with Python • SQL • Excel • Power BI**
-
-</p>
